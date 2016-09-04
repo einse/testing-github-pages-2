@@ -1,2 +1,2 @@
-# {{ project-name }}
-A temporary repository.
+# Testing Jekyll
+A temporary repository for testing Jekyll. Nothing interesting there.
