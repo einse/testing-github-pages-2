@@ -1,2 +1,2 @@
 # Testing Jekyll
-A temporary repository for testing Jekyll. Nothing interesting there.
+A temporary repository for testing Jekyll. Nothing interesting here.
