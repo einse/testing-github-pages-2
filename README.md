@@ -1,2 +1,2 @@
-# testing-github-pages-2
+# {{ project-name }}
 A temporary repository.
